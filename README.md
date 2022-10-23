@@ -5,9 +5,6 @@
 Test task for Saber Interactive company. 
 Uses generic dictionary to serialize list without need to find index of random node in inner loop. Uses two arrays to contain nodes in first and random node indexes in second on deserializing.
 
-Done by Pavel Shkitkin - [afrokaktyc@gmail.com](afrokaktyc@gmail.com)
-
-
 ### Elapsed time:
 - Researching and developing solution ~2.5h
 - Code writing~2h
@@ -25,3 +22,5 @@ Done by Pavel Shkitkin - [afrokaktyc@gmail.com](afrokaktyc@gmail.com)
 ![](https://raw.githubusercontent.com/AfroKakTyC/SaberTestTask/main/Task2/SaberTestTask.drawio.png)
 
 [Link to behaviour tree diagramm](https://drive.google.com/file/d/1Ev4bcrXox6KCyWz0pOObZRn6fywVEY0T/view?usp=sharing)
+
+Done by Pavel Shkitkin - [afrokaktyc@gmail.com](afrokaktyc@gmail.com)
