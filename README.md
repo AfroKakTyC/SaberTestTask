@@ -22,6 +22,6 @@ Done by Pavel Shkitkin - [afrokaktyc@gmail.com](afrokaktyc@gmail.com)
 - Accepting the fact that i need to draw this on my own ~1h
 - Drawing ~1.5h
 
-![Alt-текст](https://drive.google.com/file/d/1lDgdAX1sHl85B_dxPrKUpAz2O6q4IUgg/view "Орк")
+![](https://github.com/afrokaktyc/sabertesttask/raw/master/task2/SaberTestTask.drawio.png)
 
 [Link to behaviour tree diagramm](https://drive.google.com/file/d/1Ev4bcrXox6KCyWz0pOObZRn6fywVEY0T/view?usp=sharing)
